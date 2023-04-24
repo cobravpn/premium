@@ -1,4 +1,4 @@
-# VPS-SC
+# VPS-SC-PREMIUM
  NOTFORSALE
 
  <h2 align="center">AutoScript Install VPN By DixonVPN <img src="https://img.shields.io/badge/Version-2.0.4-blue.svg"></h2>
